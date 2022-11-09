@@ -1,0 +1,5 @@
+com/contactsunny/poc/AmazonSQSProducerPOC/utils/SensorDataGenerator.class
+com/contactsunny/poc/AmazonSQSProducerPOC/utils/SQSUtil.class
+com/contactsunny/poc/AmazonSQSProducerPOC/service/DataService.class
+com/contactsunny/poc/AmazonSQSProducerPOC/utils/Type.class
+com/contactsunny/poc/AmazonSQSProducerPOC/App.class

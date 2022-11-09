@@ -1,0 +1,9 @@
+com/contactsunny/poc/AmazonSQSConsumerPOC/App.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/model/Sensor$SensorBuilder.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/service/SensorService.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/SensorFunction.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/repository/SensorRepository.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/enums/Type.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/utils/SQSUtil.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/model/Sensor.class
+com/contactsunny/poc/AmazonSQSConsumerPOC/service/MessageParser.class

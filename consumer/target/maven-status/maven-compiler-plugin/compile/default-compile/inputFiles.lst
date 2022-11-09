@@ -1,0 +1,8 @@
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/service/MessageParser.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/service/SensorService.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/enums/Type.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/SensorFunction.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/utils/SQSUtil.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/repository/SensorRepository.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/model/Sensor.java
+/Users/achumak/AmazonSQSConsumerPOC/src/main/java/com/contactsunny/poc/AmazonSQSConsumerPOC/App.java
